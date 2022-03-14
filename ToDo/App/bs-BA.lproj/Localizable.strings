@@ -1,0 +1,44 @@
+/* No comment provided by engineer. */
+"Add new to do" = "Dodaj novi zadatak";
+
+/* No comment provided by engineer. */
+"Add to do description below" = "Dodaj opis zadatka ispod";
+
+/* No comment provided by engineer. */
+"Delete" = "Obriši";
+
+/* No comment provided by engineer. */
+"Enter to do name" = "Dodaj ime zadatka";
+
+/* No comment provided by engineer. */
+"Get work done" = "Završi svoje obaveze";
+
+/* No comment provided by engineer. */
+"More info: " = "Više informacija:";
+
+/* No comment provided by engineer. */
+"Press + button to add new to do" = "Pritisni + dugme da dodaš novi zadatak";
+
+/* No comment provided by engineer. */
+"Priority: " = "Prioritet:";
+
+/* No comment provided by engineer. */
+"Welcome to \n To Do application" = "Dobrodošli u \nTo Do aplikaciju";
+
+/* String for cancel button in "new to do view" screen */
+"cancelButton.text" = "Otkaži";
+
+/* String for done button in "new to do view" screen */
+"doneButton.text" = "Završi";
+
+/* Low priority string */
+"lowPriority.text" = "Nisko";
+
+/* Medium priority string */
+"mediumPriority.text" = "Srednje";
+
+/* High priority string */
+"highPriority.text" = "Visoko";
+
+/* Hello user string */
+"helloUser" = "Hello %@, feel free to use our services.";

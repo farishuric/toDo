@@ -1,0 +1,22 @@
+/* No comment provided by engineer. */
+"Priority: " = "Priority:";
+
+/* String for cancel button in "new to do view" screen */
+"cancelButton.text" = "Cancel";
+
+/* String for done button in "new to do view" screen */
+"doneButton.text" = "Done";
+
+/* Low priority string */
+"lowPriority.text" = "Low";
+
+/* Medium priority string */
+"mediumPriority.text" = "Medium";
+
+/* High priority string */
+"highPriority.text" = "High";
+ 
+/* Hello user string */
+"helloUser" = "Hello %@, feel free to use our services.";
+
+
